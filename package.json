@@ -1,0 +1,17 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "Desafio ts",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Deivi Arocutipa Serrano",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
